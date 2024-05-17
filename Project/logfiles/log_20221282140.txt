@@ -1,0 +1,11 @@
+20221282139 : Read fuction was called.
+20221282139 : Covert to negative fuction was called.
+20221282139 : Mean fuction was called.
+20221282139 : numPixel fuction was called.
+20221282139 : avgBlackpixel fuction was called.
+20221282140 : imageQueue fuction was called.
+20221282140 : imageStack fuction was called.
+
+
+
+

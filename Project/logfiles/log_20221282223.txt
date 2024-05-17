@@ -1,0 +1,11 @@
+20221282222 : Read fuction was called.
+
+
+
+
+
+
+20221282222 : rlc_encoding fuction was called.
+20221282222 : rlc_decoding fuction was called.
+20221282222 : rlc_Blackpixels fuction was called.
+20221282222 : rlc_negative fuction was called.
